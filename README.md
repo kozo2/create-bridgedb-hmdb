@@ -90,7 +90,7 @@ SPARQL query of which the output is to be saved as "kegg2wikidata.csv":
 
 4.5 KnAPSaCK IDs
 
-SPARQL query of which the output is to be saved as "ksnapsack2wikidata.csv":
+SPARQL query of which the output is to be saved as "knapsack2wikidata.csv":
 
   ```
   PREFIX wdt: <http://www.wikidata.org/prop/direct/>
